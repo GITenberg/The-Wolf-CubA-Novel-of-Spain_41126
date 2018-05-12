@@ -1,0 +1,35 @@
+_repo: The-Wolf-CubA-Novel-of-Spain_41126
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Taylor, Henry Weston
+    alias: Taylor, H. Weston (Henry Weston)
+    birthdate: 1881
+    gutenberg_agent_id: '25234'
+    url: http://www.gutenberg.org/2009/agents/25234
+covers:
+- cover_type: archival
+  image_path: 41126-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Casey, Terence
+    gutenberg_agent_id: '40992'
+    url: http://www.gutenberg.org/2009/agents/40992
+  - agent_name: Casey, Patrick
+    birthdate: 1893
+    gutenberg_agent_id: '40991'
+    url: http://www.gutenberg.org/2009/agents/40991
+description: ''
+gutenberg_issued: '2012-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Spain -- Fiction'
+title: 'The Wolf Cub: A Novel of Spain'
+url: http://www.gutenberg.org/ebooks/41126
